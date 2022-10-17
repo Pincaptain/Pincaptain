@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pincaptain
+- 👀 I’m interested in Server-side development, Docker, and Microservices.
+- 🌱 I’m currently learning Ruby on Rails, Kubernetes, and System Architecture.
+- 💞️ I’m looking to collaborate on everything!
+- 📫 Reach me out for anything!
